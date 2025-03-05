@@ -1,0 +1,4 @@
+C:\Users\cabin3613\Desktop\C#_CodingTest\CodingTest\CodingTest\obj\Debug\net8.0\CodingTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cabin3613\Desktop\C#_CodingTest\CodingTest\CodingTest\obj\Debug\net8.0\CodingTest.AssemblyInfoInputs.cache
+C:\Users\cabin3613\Desktop\C#_CodingTest\CodingTest\CodingTest\obj\Debug\net8.0\CodingTest.AssemblyInfo.cs
+C:\Users\cabin3613\Desktop\C#_CodingTest\CodingTest\CodingTest\obj\Debug\net8.0\CodingTest.csproj.CoreCompileInputs.cache
