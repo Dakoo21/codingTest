@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cabin3613\\Desktop\\C#_CodingTest\\CodingTest\\CodingTest\\CodingTest.csproj": {}
+    "C:\\Users\\cabin3613\\Desktop\\Coding_Test\\C#_Coding_Test\\CodingTest\\CodingTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cabin3613\\Desktop\\C#_CodingTest\\CodingTest\\CodingTest\\CodingTest.csproj": {
+    "C:\\Users\\cabin3613\\Desktop\\Coding_Test\\C#_Coding_Test\\CodingTest\\CodingTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cabin3613\\Desktop\\C#_CodingTest\\CodingTest\\CodingTest\\CodingTest.csproj",
+        "projectUniqueName": "C:\\Users\\cabin3613\\Desktop\\Coding_Test\\C#_Coding_Test\\CodingTest\\CodingTest.csproj",
         "projectName": "CodingTest",
-        "projectPath": "C:\\Users\\cabin3613\\Desktop\\C#_CodingTest\\CodingTest\\CodingTest\\CodingTest.csproj",
+        "projectPath": "C:\\Users\\cabin3613\\Desktop\\Coding_Test\\C#_Coding_Test\\CodingTest\\CodingTest.csproj",
         "packagesPath": "C:\\Users\\cabin3613\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cabin3613\\Desktop\\C#_CodingTest\\CodingTest\\CodingTest\\obj\\",
+        "outputPath": "C:\\Users\\cabin3613\\Desktop\\Coding_Test\\C#_Coding_Test\\CodingTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Microsoft Visual Studio\\Shared\\NuGetPackages"

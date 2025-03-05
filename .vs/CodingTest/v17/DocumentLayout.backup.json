@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\cabin3613\\Desktop\\C#_CodingTest\\CodingTest\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E27028BE-A8BC-489F-943F-DCB3B818E36F}|CodingTest\\CodingTest.csproj|c:\\users\\cabin3613\\desktop\\c#_codingtest\\codingtest\\codingtest\\4_upper_letter_to_lower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E27028BE-A8BC-489F-943F-DCB3B818E36F}|CodingTest\\CodingTest.csproj|solutionrelative:codingtest\\4_upper_letter_to_lower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E27028BE-A8BC-489F-943F-DCB3B818E36F}|CodingTest\\CodingTest.csproj|c:\\users\\cabin3613\\desktop\\c#_codingtest\\codingtest\\codingtest\\3_reprint_string.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E27028BE-A8BC-489F-943F-DCB3B818E36F}|CodingTest\\CodingTest.csproj|solutionrelative:codingtest\\3_reprint_string.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -27,6 +31,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "4_Upper_letter_to_Lower.cs",
+              "DocumentMoniker": "C:\\Users\\cabin3613\\Desktop\\C#_CodingTest\\CodingTest\\CodingTest\\4_Upper_letter_to_Lower.cs",
+              "RelativeDocumentMoniker": "CodingTest\\4_Upper_letter_to_Lower.cs",
+              "ToolTip": "C:\\Users\\cabin3613\\Desktop\\C#_CodingTest\\CodingTest\\CodingTest\\4_Upper_letter_to_Lower.cs",
+              "RelativeToolTip": "CodingTest\\4_Upper_letter_to_Lower.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T14:03:07.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "3_Reprint_String.cs",
               "DocumentMoniker": "C:\\Users\\cabin3613\\Desktop\\C#_CodingTest\\CodingTest\\CodingTest\\3_Reprint_String.cs",
               "RelativeDocumentMoniker": "CodingTest\\3_Reprint_String.cs",
@@ -39,7 +56,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "2_Print_a_b.cs",
               "DocumentMoniker": "C:\\Users\\cabin3613\\Desktop\\C#_CodingTest\\CodingTest\\CodingTest\\2_Print_a_b.cs",
               "RelativeDocumentMoniker": "CodingTest\\2_Print_a_b.cs",
@@ -47,12 +64,11 @@
               "RelativeToolTip": "CodingTest\\2_Print_a_b.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-03T06:00:55.489Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-03T06:00:55.489Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "1_Print_String.cs",
               "DocumentMoniker": "C:\\Users\\cabin3613\\Desktop\\C#_CodingTest\\CodingTest\\CodingTest\\1_Print_String.cs",
               "RelativeDocumentMoniker": "CodingTest\\1_Print_String.cs",
@@ -60,8 +76,7 @@
               "RelativeToolTip": "CodingTest\\1_Print_String.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-03T06:00:39.309Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-03T06:00:39.309Z"
             }
           ]
         }
