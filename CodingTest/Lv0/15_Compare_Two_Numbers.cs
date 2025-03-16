@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CodingTest
+namespace CodingTest.Lv0
 {
     class _15_Compare_Two_Numbers
     {
@@ -31,7 +31,7 @@ namespace CodingTest
                 if (1 <= b && b < 1000)
                 {
                     // 삼항 연산자를 통해 비교 및 결과 값 answer에 저장
-                    answer = (abString >= (2 * a * b)) ? abString : 2 * a * b;
+                    answer = abString >= 2 * a * b ? abString : 2 * a * b;
                 }
             }
             // 리턴

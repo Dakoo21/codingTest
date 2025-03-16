@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CodingTest
+namespace CodingTest.Lv0
 {
     class _6_Print_Addition_Formula
     {

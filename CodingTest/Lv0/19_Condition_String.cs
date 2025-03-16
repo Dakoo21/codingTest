@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CodingTest
+namespace CodingTest.Lv0
 {
     class _19_Condition_String
     {
@@ -32,8 +32,8 @@ namespace CodingTest
 
                     // 1-2. ">" 가 아닌 경우
                     //      삼항 연산자 (eq == "=" ? (n <= m) : (n < m)) 연산 시작 후 true OR false 반환
-                    return (ineq == ">" ? (eq == "=" ? (n >= m) : (n > m))
-                            : (eq == "=" ? (n <= m) : (n < m))) ? 1 : 0;
+                    return ineq == ">" ? eq == "=" ? n >= m : n > m
+                            : eq == "=" ? n <= m : n < m ? 1 : 0;
                 }
             }
             return 0;

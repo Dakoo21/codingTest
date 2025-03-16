@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CodingTest
+namespace CodingTest.Lv0
 {
     class _20_Values_​Depending_Flag
     {
@@ -26,7 +26,7 @@ namespace CodingTest
                 if (-1000 <= b && b <= 1000)
                 {
                     // 삼항 연산자 사용
-                    return flag ? (a + b) : (a - b);
+                    return flag ? a + b : a - b;
                 }
             }
 

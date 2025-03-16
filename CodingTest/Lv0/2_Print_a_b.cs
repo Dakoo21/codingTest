@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace CodingTest
+namespace CodingTest.Lv0
 {
     class Print_a_b_2
     {

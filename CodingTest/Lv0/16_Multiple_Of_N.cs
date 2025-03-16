@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CodingTest
+namespace CodingTest.Lv0
 {
     class _16_Multiple_Of_N
     {
@@ -21,13 +21,13 @@ namespace CodingTest
         public int solution (int num, int n)
         {
             // 제약 조건
-            bool numResult = (2 <= num && num <= 100);
-            bool nResult = (2 <= n && n <= 9);
+            bool numResult = 2 <= num && num <= 100;
+            bool nResult = 2 <= n && n <= 9;
 
             if (numResult && nResult)
             {
                 // 삼항연산자를 통해 비교 리턴
-                return (num % n == 0) ? 1 : 0;
+                return num % n == 0 ? 1 : 0;
             }
             else
             {

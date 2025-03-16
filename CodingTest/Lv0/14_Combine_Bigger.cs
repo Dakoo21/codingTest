@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CodingTest
+namespace CodingTest.Lv0
 {
     class _14_Combine_Bigger
     {
@@ -32,7 +32,7 @@ namespace CodingTest
                     int result2 = Convert.ToInt32(b.ToString() + a.ToString());
 
                     // 삼항 연산자를 이용하여 비교 후 결과 값 저장
-                    answer = (result1 >= result2) ? result1 : result2;
+                    answer = result1 >= result2 ? result1 : result2;
                 }
             }
             // 리턴

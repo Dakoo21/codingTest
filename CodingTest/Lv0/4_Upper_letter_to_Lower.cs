@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace CodingTest
+namespace CodingTest.Lv0
 {
     class _4_Upper_letter_to_Lower
     {

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CodingTest
+namespace CodingTest.Lv0
 {
     class _17_Common_Multiple
     {
@@ -26,16 +26,16 @@ namespace CodingTest
             bool mMultipleResult = false;
 
             // 제약 조건
-            if((1 <= number && number <= 100) && 
-               (2 <= n && n < 10) && 
-               (2 <= m && m < 10))
+            if(1 <= number && number <= 100 && 
+               2 <= n && n < 10 && 
+               2 <= m && m < 10)
             {
                 // 해당 정수의 배수가 맞는지 확인
-                nMultipleResult = (number % n == 0);
-                mMultipleResult = (number % m == 0);
+                nMultipleResult = number % n == 0;
+                mMultipleResult = number % m == 0;
             }
             // 삼항 연산자를 사용해서 결과값 리턴
-            return (nMultipleResult && mMultipleResult) ? 1 : 0;
+            return nMultipleResult && mMultipleResult ? 1 : 0;
         }
     }
 }
