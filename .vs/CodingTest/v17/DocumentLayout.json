@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\cabin3613\\Desktop\\Coding_Test\\C#_Coding_Test\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E27028BE-A8BC-489F-943F-DCB3B818E36F}|CodingTest\\CodingTest.csproj|c:\\users\\cabin3613\\desktop\\coding_test\\c#_coding_test\\codingtest\\25_combine_number.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E27028BE-A8BC-489F-943F-DCB3B818E36F}|CodingTest\\CodingTest.csproj|solutionrelative:codingtest\\25_combine_number.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E27028BE-A8BC-489F-943F-DCB3B818E36F}|CodingTest\\CodingTest.csproj|c:\\users\\cabin3613\\desktop\\coding_test\\c#_coding_test\\codingtest\\lv0\\24_compare_sum_multiply.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E27028BE-A8BC-489F-943F-DCB3B818E36F}|CodingTest\\CodingTest.csproj|solutionrelative:codingtest\\lv0\\24_compare_sum_multiply.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -111,19 +115,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "25_Combine_Number.cs",
+              "DocumentMoniker": "C:\\Users\\cabin3613\\Desktop\\Coding_Test\\C#_Coding_Test\\CodingTest\\25_Combine_Number.cs",
+              "RelativeDocumentMoniker": "CodingTest\\25_Combine_Number.cs",
+              "ToolTip": "C:\\Users\\cabin3613\\Desktop\\Coding_Test\\C#_Coding_Test\\CodingTest\\25_Combine_Number.cs",
+              "RelativeToolTip": "CodingTest\\25_Combine_Number.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAcwDIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T13:39:12.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "24_Compare_Sum_Multiply.cs",
               "DocumentMoniker": "C:\\Users\\cabin3613\\Desktop\\Coding_Test\\C#_Coding_Test\\CodingTest\\Lv0\\24_Compare_Sum_Multiply.cs",
               "RelativeDocumentMoniker": "CodingTest\\Lv0\\24_Compare_Sum_Multiply.cs",
               "ToolTip": "C:\\Users\\cabin3613\\Desktop\\Coding_Test\\C#_Coding_Test\\CodingTest\\Lv0\\24_Compare_Sum_Multiply.cs",
               "RelativeToolTip": "CodingTest\\Lv0\\24_Compare_Sum_Multiply.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAA+AAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAswBkAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-17T12:52:51.944Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "23_Dice_Game2.cs",
               "DocumentMoniker": "C:\\Users\\cabin3613\\Desktop\\Coding_Test\\C#_Coding_Test\\CodingTest\\Lv0\\23_Dice_Game2.cs",
               "RelativeDocumentMoniker": "CodingTest\\Lv0\\23_Dice_Game2.cs",
@@ -131,12 +148,11 @@
               "RelativeToolTip": "CodingTest\\Lv0\\23_Dice_Game2.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAAcwCUAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T12:30:13.612Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-17T12:30:13.612Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "22_Adding_Sepecifi_Number_Of_Geometric_Sequence.cs",
               "DocumentMoniker": "C:\\Users\\cabin3613\\Desktop\\Coding_Test\\C#_Coding_Test\\CodingTest\\Lv0\\22_Adding_Sepecifi_Number_Of_Geometric_Sequence.cs",
               "RelativeDocumentMoniker": "CodingTest\\Lv0\\22_Adding_Sepecifi_Number_Of_Geometric_Sequence.cs",
@@ -144,12 +160,11 @@
               "RelativeToolTip": "CodingTest\\Lv0\\22_Adding_Sepecifi_Number_Of_Geometric_Sequence.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAAACkAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T06:00:13.245Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-16T06:00:13.245Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "21_Handling_Code.cs",
               "DocumentMoniker": "C:\\Users\\cabin3613\\Desktop\\Coding_Test\\C#_Coding_Test\\CodingTest\\Lv0\\21_Handling_Code.cs",
               "RelativeDocumentMoniker": "CodingTest\\Lv0\\21_Handling_Code.cs",
@@ -157,12 +172,11 @@
               "RelativeToolTip": "CodingTest\\Lv0\\21_Handling_Code.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAmwC8AAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T05:42:32.714Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-16T05:42:32.714Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "20_Values_\u200BDepending_Flag.cs",
               "DocumentMoniker": "C:\\Users\\cabin3613\\Desktop\\Coding_Test\\C#_Coding_Test\\CodingTest\\Lv0\\20_Values_\u200BDepending_Flag.cs",
               "RelativeDocumentMoniker": "CodingTest\\Lv0\\20_Values_\u200BDepending_Flag.cs",
@@ -170,12 +184,11 @@
               "RelativeToolTip": "CodingTest\\Lv0\\20_Values_\u200BDepending_Flag.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T15:16:29.746Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-12T15:16:29.746Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "18_Return_Value_Depending_Odd_Even.cs",
               "DocumentMoniker": "C:\\Users\\cabin3613\\Desktop\\Coding_Test\\C#_Coding_Test\\CodingTest\\Lv0\\18_Return_Value_Depending_Odd_Even.cs",
               "RelativeDocumentMoniker": "CodingTest\\Lv0\\18_Return_Value_Depending_Odd_Even.cs",
@@ -183,12 +196,11 @@
               "RelativeToolTip": "CodingTest\\Lv0\\18_Return_Value_Depending_Odd_Even.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAqwDEAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T14:49:57.567Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-11T14:49:57.567Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "17_Common_Multiple.cs",
               "DocumentMoniker": "C:\\Users\\cabin3613\\Desktop\\Coding_Test\\C#_Coding_Test\\CodingTest\\Lv0\\17_Common_Multiple.cs",
               "RelativeDocumentMoniker": "CodingTest\\Lv0\\17_Common_Multiple.cs",
@@ -200,7 +212,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "16_Multiple_Of_N.cs",
               "DocumentMoniker": "C:\\Users\\cabin3613\\Desktop\\Coding_Test\\C#_Coding_Test\\CodingTest\\Lv0\\16_Multiple_Of_N.cs",
               "RelativeDocumentMoniker": "CodingTest\\Lv0\\16_Multiple_Of_N.cs",
@@ -212,7 +224,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "15_Compare_Two_Numbers.cs",
               "DocumentMoniker": "C:\\Users\\cabin3613\\Desktop\\Coding_Test\\C#_Coding_Test\\CodingTest\\Lv0\\15_Compare_Two_Numbers.cs",
               "RelativeDocumentMoniker": "CodingTest\\Lv0\\15_Compare_Two_Numbers.cs",
@@ -224,7 +236,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "14_Combine_Bigger.cs",
               "DocumentMoniker": "C:\\Users\\cabin3613\\Desktop\\Coding_Test\\C#_Coding_Test\\CodingTest\\Lv0\\14_Combine_Bigger.cs",
               "RelativeDocumentMoniker": "CodingTest\\Lv0\\14_Combine_Bigger.cs",
@@ -236,7 +248,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "1_Print_String.cs",
               "DocumentMoniker": "C:\\Users\\cabin3613\\Desktop\\Coding_Test\\C#_Coding_Test\\CodingTest\\Lv0\\1_Print_String.cs",
               "RelativeDocumentMoniker": "CodingTest\\Lv0\\1_Print_String.cs",
@@ -248,7 +260,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "19_Condition_String.cs",
               "DocumentMoniker": "C:\\Users\\cabin3613\\Desktop\\Coding_Test\\C#_Coding_Test\\CodingTest\\Lv0\\19_Condition_String.cs",
               "RelativeDocumentMoniker": "CodingTest\\Lv0\\19_Condition_String.cs",
@@ -260,7 +272,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "13_String_Multiplication.cs",
               "DocumentMoniker": "C:\\Users\\cabin3613\\Desktop\\Coding_Test\\C#_Coding_Test\\CodingTest\\Lv0\\13_String_Multiplication.cs",
               "RelativeDocumentMoniker": "CodingTest\\Lv0\\13_String_Multiplication.cs",
@@ -272,7 +284,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "12_Change_Array_to_String.cs",
               "DocumentMoniker": "C:\\Users\\cabin3613\\Desktop\\Coding_Test\\C#_Coding_Test\\CodingTest\\Lv0\\12_Change_Array_to_String.cs",
               "RelativeDocumentMoniker": "CodingTest\\Lv0\\12_Change_Array_to_String.cs",
@@ -284,7 +296,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "11_Shuffle_String.cs",
               "DocumentMoniker": "C:\\Users\\cabin3613\\Desktop\\Coding_Test\\C#_Coding_Test\\CodingTest\\Lv0\\11_Shuffle_String.cs",
               "RelativeDocumentMoniker": "CodingTest\\Lv0\\11_Shuffle_String.cs",
@@ -296,7 +308,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "10_Overwriting_string.cs",
               "DocumentMoniker": "C:\\Users\\cabin3613\\Desktop\\Coding_Test\\C#_Coding_Test\\CodingTest\\Lv0\\10_Overwriting_string.cs",
               "RelativeDocumentMoniker": "CodingTest\\Lv0\\10_Overwriting_string.cs",
@@ -308,7 +320,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "9_Distinguish_Odd_And_Even.cs",
               "DocumentMoniker": "C:\\Users\\cabin3613\\Desktop\\Coding_Test\\C#_Coding_Test\\CodingTest\\Lv0\\9_Distinguish_Odd_And_Even.cs",
               "RelativeDocumentMoniker": "CodingTest\\Lv0\\9_Distinguish_Odd_And_Even.cs",
@@ -320,7 +332,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "8_Print_String_One_by_One.cs",
               "DocumentMoniker": "C:\\Users\\cabin3613\\Desktop\\Coding_Test\\C#_Coding_Test\\CodingTest\\Lv0\\8_Print_String_One_by_One.cs",
               "RelativeDocumentMoniker": "CodingTest\\Lv0\\8_Print_String_One_by_One.cs",
@@ -332,7 +344,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "6_Print_Addition_Formula.cs",
               "DocumentMoniker": "C:\\Users\\cabin3613\\Desktop\\Coding_Test\\C#_Coding_Test\\CodingTest\\Lv0\\6_Print_Addition_Formula.cs",
               "RelativeDocumentMoniker": "CodingTest\\Lv0\\6_Print_Addition_Formula.cs",
@@ -344,7 +356,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "5_Print_Special_Characters.cs",
               "DocumentMoniker": "C:\\Users\\cabin3613\\Desktop\\Coding_Test\\C#_Coding_Test\\CodingTest\\Lv0\\5_Print_Special_Characters.cs",
               "RelativeDocumentMoniker": "CodingTest\\Lv0\\5_Print_Special_Characters.cs",
@@ -356,7 +368,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "4_Upper_letter_to_Lower.cs",
               "DocumentMoniker": "C:\\Users\\cabin3613\\Desktop\\Coding_Test\\C#_Coding_Test\\CodingTest\\Lv0\\4_Upper_letter_to_Lower.cs",
               "RelativeDocumentMoniker": "CodingTest\\Lv0\\4_Upper_letter_to_Lower.cs",
@@ -368,7 +380,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "3_Reprint_String.cs",
               "DocumentMoniker": "C:\\Users\\cabin3613\\Desktop\\Coding_Test\\C#_Coding_Test\\CodingTest\\Lv0\\3_Reprint_String.cs",
               "RelativeDocumentMoniker": "CodingTest\\Lv0\\3_Reprint_String.cs",
@@ -380,7 +392,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "7_Print By_Combining_String.cs",
               "DocumentMoniker": "C:\\Users\\cabin3613\\Desktop\\Coding_Test\\C#_Coding_Test\\CodingTest\\Lv0\\7_Print By_Combining_String.cs",
               "RelativeDocumentMoniker": "CodingTest\\Lv0\\7_Print By_Combining_String.cs",
@@ -392,7 +404,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "2_Print_a_b.cs",
               "DocumentMoniker": "C:\\Users\\cabin3613\\Desktop\\Coding_Test\\C#_Coding_Test\\CodingTest\\Lv0\\2_Print_a_b.cs",
               "RelativeDocumentMoniker": "CodingTest\\Lv0\\2_Print_a_b.cs",
